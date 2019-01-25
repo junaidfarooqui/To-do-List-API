@@ -1,0 +1,7 @@
+{
+  "name" :  "ToDo RESTful API",
+  "version": "1.0.0",
+  "description": "A todo list api on node with mongoDB",
+  "author": "Junaid Farooqui",
+  "license": "ISC"
+}
